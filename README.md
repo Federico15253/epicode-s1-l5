@@ -1,2 +1,1 @@
-# epicode-s1-l5
-esercizio lezione 5
+Come si può notare nel file numero 4 (che fa riferimento alla cattura di https) è presente il protocollo tlsv1 che crtipta le informazioni, mentre nel file numero 2 (che fa riferimento alla cattura http) è possibile leggere il contenuto della pagina senza alcun protocollo di criptazione.
